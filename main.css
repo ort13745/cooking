@@ -66,7 +66,7 @@ header h1 {
 }
 
 .global_navi  li a {
-  background-color :#f0573e;
+  background-color :#3dd2de;
   padding: 10px 16px;
   color: #ffffff;
   text-align: center;
@@ -76,15 +76,15 @@ header h1 {
 }
 
 .global_navi ul li.current a {
-  background-color: #fa9786;
+  background-color: #faf744;
 }
 
 .global_navi ul li a:hover {
-  background-color: #fa9786;
+  background-color: #faf744;
 }
 
 .top-image {
-  height: 440px;
+  max-width: 984px;
   margin : 0 auto 25px;
 }
 
@@ -125,6 +125,10 @@ header h1 {
 .news li a {
   color: #222222;
   margin-left: 16px;
+}
+
+.news-content {
+  font-size: 14px;
 }
 
 .sideber {
@@ -191,7 +195,7 @@ footer {
   padding-right: 8px;
 }
 
-.image {
+.capture {
   max-width: 250px;
 }
 

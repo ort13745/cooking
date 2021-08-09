@@ -11,12 +11,7 @@ a {
   text-decoration: none;
 }
 
-a:visited {
-  color: #33f;
-}
-
 a:hover {
-  color:#e08255;
   font-weight: 700;
   text-decoration:none;
 }
@@ -139,11 +134,11 @@ header h1 {
 .sideber {
   margin-bottom: 30px;
   text-align: center;
-  border: 1px solid #998877;
+  border: 1px solid #b99c7f;
 }
 
 .sideber h2 {
-  background-color: #956840;
+  background-color: #b99c7f;
   color: #fff;
   padding: 7px;
   font-size: 14px;
@@ -162,7 +157,7 @@ header h1 {
 
 
 footer {
-  background-color: #956840;
+  background-color: #b99c7f;
   text-align: center;
   clear: both;
 }
